@@ -1,0 +1,29 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "lint": "eslint",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "vue": "next"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.21",
+    "css-loader": "^6.5.0",
+    "eslint": "^8.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "8.0.3",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.4.3",
+    "prettier": "^2.4.1",
+    "vue-loader": "next",
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  }
+}

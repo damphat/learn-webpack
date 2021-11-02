@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "johnsoncodehk.volar",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.auto-rename-tag",
+    "elemefe.vscode-element-helper"
+  ],
+  "unwantedRecommendations": ["octref.vetur"]
+}
